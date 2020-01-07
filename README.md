@@ -1,2 +1,2 @@
 # Translation
-Contains translated documents
+Contains Chinese translation of documents
